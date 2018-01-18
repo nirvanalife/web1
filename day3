@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>文本格式化</title>
+</head>
+<body>
+    <b>定义粗体字</b><br/>
+    <big>定义大号字</big><br/>
+    <em>定义着重字</em><br/>
+    <i>定义斜体字</i><br/>
+    <small>定义小号字</small><br/>
+    <strong>定义加重语气</strong><br/>
+    定义下标字X<sub>2</sub><br/>
+    定义上标字X<sup>2</sup><br/>
+    定义插入(下横线）<ins>字</ins><br/>
+    <del>定义删除字</del><br/>
+    <hr/>
+    <!--预格式标签保留空格和换行-->
+    <pre>
+    for i=1  i<2  i++
+        print  i
+    </pre>
+    <hr/>
+    <!--html地址-->
+    <address>
+    written by<a href="http://www.baidu.com">百度</a>.<br>
+    Visit us at<br/>
+    HeiLongjiang province,CN
+    </address>
+    <hr/>
+    <!--缩写和首字母缩写-->
+    <abbr title="doggy~~~">dog</abbr><br/>
+    <acronym title="world wide web">www</acronym>
+    <hr/>
+    <!--改变文字方向-->
+    <bdo dir="rtl">
+    倒着念的是狗
+    </bdo>
+    <hr/>
+    <!--块引用-->
+    长的块引用：
+    <blockquote>长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用长的块引用</blockquote>
+    短的块引用：
+    <q>短的块引用</q>
+    <hr/>
+    <cite>鲁宾逊漂流记</cite>
+</body>
+</html>
