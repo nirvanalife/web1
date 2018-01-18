@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>列表</title>
+</head>
+<body>
+<!--无序列表-->
+<ul>
+<li>doggy</li>
+<li>gay</li>
+</ul>
+<!--有序列表-->
+<ol>
+<li>doggy</li>
+<li>gay</li>
+</ol>
+<!--定义列表-->
+<dl>
+<dt>coffee</dt>
+<dd>凌晨三点见</dd>
+<dt>tea</dt>
+<dd>东方树叶那种吗</dd>
+</dl>
+<!--不同类型的无序列表-->
+<ul type="disc">
+<li>coffee</li>
+<li>tea</li>
+<li>juice</li>
+</ul>
+<ul type="circle">
+<li>coffee</li>
+<li>tea</li>
+<li>juice</li>
+</ul>
+<ul type="square">
+<li>coffee</li>
+<li>tea</li>
+<li>juice</li>
+</ul>
+<!--不同类型有序列表-->
+<ol>
+<li>coffee</li>
+<li>tea</li>
+<li>juice</li>
+</ol>
+<ol type="A">
+<li>coffee</li>
+<li>tea</li>
+<li>juice</li>
+</ol>
+<ol type="a">
+<li>coffee</li>
+<li>tea</li>
+<li>juice</li>
+</ol>
+<ol type="I">
+<li>coffee</li>
+<li>tea</li>
+<li>juice</li>
+</ol>
+<ol type="i">
+<li>coffee</li>
+<li>tea</li>
+<li>juice</li>
+</ol>
+<!--嵌套列表-->
+<ul>
+<li>coffee</li>
+<li>tea</li>
+<ul>
+<li>juice</li>
+<ul>
+<li>beer</li>
+<ul>
+<li>凑数</li>
+</ul>
+</ul>
+</ul>
+<li>water</li>
+</ul>
+</body>
+</html>
